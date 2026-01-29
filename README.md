@@ -129,12 +129,12 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 <!-- NOTE: Replace 'your-username' with your actual GitHub username to see your stats! -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3137&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3137&theme=flat&margin-w=4" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=tokyonight&hide_border=true" alt="Your Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=dracula" alt="Your Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=dracula" alt="Top Languages" height="180" />
 </div>
 
 ---
@@ -142,3 +142,4 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 <div align="center">
   <i>"Building intelligent systems that solve real-world problems."</i>
 </div>
+
