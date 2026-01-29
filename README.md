@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nikhil%20Raut&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%26%20AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=62" width="100%" alt="Nikhil Raut Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nikhil%20Raut&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=62" width="100%" alt="Nikhil Raut Header" />
   
   <br/>
   
@@ -133,8 +133,8 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=7aa2f7&curr_streak_num_color=7aa2f7" alt="Your Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=tokyonight&hide_border=true" alt="Your Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
