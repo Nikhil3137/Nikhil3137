@@ -129,12 +129,12 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 <!-- NOTE: Replace 'your-username' with your actual GitHub username to see your stats! -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="Your Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=radical&hide_border=true" alt="Your Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil3137&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
