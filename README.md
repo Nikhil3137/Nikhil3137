@@ -124,16 +124,7 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 
 ---
 
-## 📈 GitHub Stats
 
-<!-- NOTE: Replace 'your-username' with your actual GitHub username to see your stats! -->
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil3137&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=dark)
-
----
 
 <div align="center">
   <i>"Building intelligent systems that solve real-world problems."</i>
