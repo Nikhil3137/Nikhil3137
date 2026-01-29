@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nikhil%20Raut&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=62" width="100%" alt="Nikhil Raut Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nikhil%20Raut&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20%26%20AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=55&descAlign=62" width="100%" alt="Nikhil Raut Header" />
   
   <br/>
   
@@ -22,9 +22,9 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXU4OG80cW02aXU4OG80cW02aXU4OG80cW02aXU4OG80cW02/qgQUGGACBB65t/giphy.gif" width="180" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Coding GIF" />
 
-I am a **Generative AI Engineer** with **3+ years of experience** specializing in designing and deploying production-grade **LLM applications**, **Retrieval-Augmented Generation (RAG)** systems, and **Agentic Workflows**.
+I am a **Generative AI & AI Engineer** with **3+ years of experience** specializing in designing and deploying production-grade **LLM applications**, **Retrieval-Augmented Generation (RAG)** systems, and **Agentic Workflows**.
 
 My passion lies at the intersection of **Generative AI**, **Backend Engineering**, and **MLOps**. I build scalable, secure, and intelligent systems that solve real-world business problems.
 
@@ -129,12 +129,12 @@ My passion lies at the intersection of **Generative AI**, **Backend Engineering*
 <!-- NOTE: Replace 'your-username' with your actual GitHub username to see your stats! -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=radical&hide_border=true" alt="Your Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil3137&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil3137&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil3137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&ring_color=7aa2f7&curr_streak_num_color=7aa2f7" alt="Your Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3137&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180" />
 </div>
 
 ---
